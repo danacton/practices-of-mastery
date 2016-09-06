@@ -46,7 +46,7 @@ effort exceed the benefit in the context of the customer product we were
 delivering. You need to pragmatic and remember the end goal is to deliver value
 for your customers.
 
-# Lesson 2: It is Never Only Once
+## Lesson 2: It is Never Only Once
 
 Not everybody will believe that automation is worth the effort.
 
@@ -65,7 +65,7 @@ to respond to new demands in ways you never imagined.
 A reduction in the cost of creating a capability due to automation results
 in an increase in demand for that capability.
 
-# Lesson 3: It Drives Velocity
+## Lesson 3: It Drives Velocity
 
 Automation will drive your velocity, however, it won't help you win the
 spirit race. Over a longer distance it will assist in building up velocity
@@ -97,7 +97,7 @@ an alternative product into a test platform and within a day we had proven
 the alternative product works. Automation enabled high velocity response
 even in the face of failure.
 
-# Lesson 4: It Drives Quality
+## Lesson 4: It Drives Quality
 
 The effort you put into building the system that builds the product shows
 up in the quality of the finished product.
@@ -126,7 +126,7 @@ components we could not automate due to time and/or technology constraints.
 
 That is how automation assists in delivering quality products.
 
-# Increased Quality and Velocity
+## Increased Quality and Velocity
 
 Quality and velocity are traditionally seen as quantities you need to trade
 off. To increase quality we need to go slower, to increase velocity we need
