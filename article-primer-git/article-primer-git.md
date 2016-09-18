@@ -31,7 +31,7 @@ At this point, you'll create file(s), or update existing file(s).
 ### Push your changes to the Git server
 Now you've probably got a few commits to your local git repo. You want to push those changes to the server often so that you're safe. When you push to the server, it will take all your commits and store them. They'll go into the branch you're working on (but remember to use the -u parameter).
 
-`git push -u`
+`git push -u origin article-primer-git`
 
 ### Create a pull request
 A pull request is when you ask someone that mantains your repo (or a branch you want to merge into) to review your code and combine it with another branch (sometimes *master*).
