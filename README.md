@@ -9,6 +9,7 @@ Since [practicesofmastery.com](http://practicesofmastery.com) is dedicated to sp
 Sweet! We totally want you to contribute. We also want you to be attributed with the contribution. And we want to make sure that everyone gets to share in the magical knowledge that you have to impart. Also, we hope that some people learn a thing or two by contributing.
 
 Here's the process of contributing to the site (more details on each step is provided below):
+
 1. Clone this repo
 2. Write an article on a practice of mastery
 3. Create a pull request to include your article in the repo
