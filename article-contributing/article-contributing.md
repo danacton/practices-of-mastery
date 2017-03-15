@@ -24,26 +24,26 @@ Here's the process of contributing to the site. You can follow the [Very Quick P
 2. Fork this repo on Github: [https://github.com/danacton/practices-of-mastery](https://github.com/danacton/practices-of-mastery)
 2. Clone your GitHub fork onto your machine:
 
- git clone git@github.com:*<account_name>*/practices-of-mastery.git
+ git clone git@github.com:*\<account_name>*/practices-of-mastery.git
 
 3. Create a local branch for your article named after your article (see naming conventions above):
 
-git checkout -b *<article-some-interesting-things>*
+git checkout -b *\<article-some-interesting-things>*
 
 3. On that branch, create a directory named after your article (see naming conventions above)
 
-mkdir  *<article-some-interesting-things>*
+mkdir  *\<article-some-interesting-things>*
 
 4. Write an article on a practice of mastery - choose from any of those indicated on the site. Create the article as a Markdown document named after your article (see naming conventions above)
 5. Commit the article to your local git repo
 
-git add *<article-some-interesting-things>/<article-some-interesting-things.md>*
+git add *\<article-some-interesting-things>/\<article-some-interesting-things.md>*
 
 git commit -m "*\<Interesting Commit Message>*"
 
 6. Push your changes to the your Github fork of the repo
 
-git push origin *<article-some-interesting-things>*
+git push origin *\<article-some-interesting-things>*
 
 7. Repeat steps 5 and 6 as required to complete your article, once complete continue to step 8
 8. Create a pull request on Github for your branch in your GitHub fork to the master branch of the upstream repo, i.e.[https://github.com/danacton/practices-of-mastery](https://github.com/danacton/practices-of-mastery)
