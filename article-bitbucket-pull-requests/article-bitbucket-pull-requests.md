@@ -1,5 +1,4 @@
-This article explains how work with pull requests on BitBucket. Pull requests
-are a simple and effective way to do code review and collaboration in a shared
+Pull requests are a simple and effective way to do code review and collaboration in a shared
 environment with little friction in your team.
 
 Pull requests give you:
@@ -169,3 +168,5 @@ The **Builds** column contains one of these statuses:
 From the **Commit** column, click the link to the commit that you want to see. On the right side of the commit page, you see the build status icon again and a link to more details. Click the link to see details of each build for the commit. The table that opens when you click a build status includes only the most recent status for each build, not a history of builds for the commit.  
  -- Image goes here build_status_commit  
 You can also check the build statuses for a repository without creating a pull request. To see the build status on a commit, press **Commits** on the left side of the repository.
+
+<sub><sup>This article is taken almost directly from (Atlassian's Working with pull requests)[https://confluence.atlassian.com/bitbucket/work-with-pull-requests-223220593.html]. Some modifications were made to the layout.</sup></sub>
